@@ -12,5 +12,4 @@ def generatePowersetofSet(word):
                 print(word[j],end="")
         print("")
 
-#et = ['a','b','c']
 generatePowersetofSet("ABC")
